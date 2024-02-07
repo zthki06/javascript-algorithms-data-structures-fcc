@@ -1,5 +1,5 @@
 ## JavaScript Algorithms and Data Structures
-Learn the languages that developers use to build webpages: JavaScript fundamentals,  Object Oriented Programming (OOP), Functional Programming, algorithmic thinking, how to work with local storage, and how to fetch data using an API
+JavaScript fundamentals,  Object Oriented Programming (OOP), Functional Programming, algorithmic thinking, how to work with local storage, and how to fetch data using an API
 
 ## Projects
 - Palindrome Checker
